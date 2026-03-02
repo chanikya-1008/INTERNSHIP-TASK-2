@@ -1,2 +1,4 @@
-# INTERNSHIP-TASK-2
-Web App is a responsive front-end project built using HTML, CSS, and JavaScript. It features a modern navigation bar, a validated contact form, and an interactive image gallery where users can upload and display images dynamically. The project demonstrates strong skills in UI design, form validation, and DOM manipulation.
+INTERNSHIP TASK-2
+A responsive front-end web application built using HTML, CSS, and JavaScript. It features a validated contact form, dynamic image upload gallery with delete option, animated background effects, and smooth scroll reveal animations.
+
+This project demonstrates strong skills in form validation, DOM manipulation, and modern responsive UI design.
